@@ -1,0 +1,20 @@
+# Ignore uploaded files
+/uploads
+
+# Ignore dependencies
+/node_modules
+
+# Ignore Uploads folder
+/uploads
+
+# Ignore environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
